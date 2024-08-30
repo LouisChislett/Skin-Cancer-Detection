@@ -1,2 +1,4 @@
 # Skin-Cancer-Detection
-Kaggle Skin Cancer Detection challenge
+This repo contains an attempt at the [Kaggle ISIC 2024 Skin Cancer Detection Challenge](https://www.kaggle.com/competitions/isic-2024-challenge/overview)
+
+In this notebook I build a CNN which takes image and tabular data as inputs, concatanates the layers and then outputs the probability of an image being skin cancer or not, which was used for prediction. 
